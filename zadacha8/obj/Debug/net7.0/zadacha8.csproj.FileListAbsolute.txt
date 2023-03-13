@@ -1,0 +1,15 @@
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d1\zadacha8\bin\Debug\net7.0\zadacha8.exe
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d1\zadacha8\bin\Debug\net7.0\zadacha8.deps.json
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d1\zadacha8\bin\Debug\net7.0\zadacha8.runtimeconfig.json
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d1\zadacha8\bin\Debug\net7.0\zadacha8.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d1\zadacha8\bin\Debug\net7.0\zadacha8.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d1\zadacha8\obj\Debug\net7.0\zadacha8.csproj.AssemblyReference.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d1\zadacha8\obj\Debug\net7.0\zadacha8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d1\zadacha8\obj\Debug\net7.0\zadacha8.AssemblyInfoInputs.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d1\zadacha8\obj\Debug\net7.0\zadacha8.AssemblyInfo.cs
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d1\zadacha8\obj\Debug\net7.0\zadacha8.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d1\zadacha8\obj\Debug\net7.0\zadacha8.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d1\zadacha8\obj\Debug\net7.0\refint\zadacha8.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d1\zadacha8\obj\Debug\net7.0\zadacha8.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d1\zadacha8\obj\Debug\net7.0\zadacha8.genruntimeconfig.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d1\zadacha8\obj\Debug\net7.0\ref\zadacha8.dll
